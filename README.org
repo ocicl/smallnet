@@ -1,0 +1,9 @@
+* smallnet
+
+Gemini and Gopher client library for Common Lisp
+
+|---------+---------------------------------------|
+| source  | git:https://git.sr.ht/~nytpu/smallnet |
+| commit  | d4cb2fd7                              |
+| systems | smallnet                              |
+|---------+---------------------------------------|
